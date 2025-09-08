@@ -45,7 +45,7 @@ flight_reservation_app/
 
 ▶️ Getting Started
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/flight_reservation_app.git
+git clone https://github.com/mohamedghareeb9/flight_reservation_app.git
 cd flight_reservation_app
 
 2. (Optional) Create a virtual environment
