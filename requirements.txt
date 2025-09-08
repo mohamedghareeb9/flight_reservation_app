@@ -1,0 +1,3 @@
+# Required Python libraries
+# Tkinter is built into Python, but listed here for clarity
+tk
