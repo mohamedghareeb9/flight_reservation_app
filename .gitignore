@@ -1,0 +1,49 @@
+# ------------------
+# Python cache files
+# ------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ------------------
+# SQLite database
+# ------------------
+*.db
+
+# ------------------
+# Virtual environments
+# ------------------
+venv/
+ENV/
+env/
+.venv/
+
+# ------------------
+# PyInstaller build files
+# ------------------
+*.spec
+/dist/
+/build/
+
+# ------------------
+# IDE / Editor settings
+# ------------------
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+
+# Eclipse / PyDev
+.project
+.pydevproject
+.settings/
+
+# ------------------
+# OS-specific junk
+# ------------------
+.DS_Store
+Thumbs.db
